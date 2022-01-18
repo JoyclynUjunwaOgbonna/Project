@@ -2,4 +2,4 @@ logs/
 
 main.logs
 *.log
-
+data/
